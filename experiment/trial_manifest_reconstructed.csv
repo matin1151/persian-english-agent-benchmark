@@ -1,0 +1,11 @@
+task_id,language,prompt,expected_function,expected_arguments_json
+"address_A104","EN","Change the shipping city of order A104 to Shiraz and street to Hafez 12.","update_shipping_address","{""order_id"":""A104"",""city"":""Shiraz"",""street"":""Hafez 12""}"
+"address_A104","FA","شهر مقصد سفارش A104 را به شیراز و خیابان را به حافظ ۱۲ تغییر بده.","update_shipping_address","{""order_id"":""A104"",""city"":""Shiraz"",""street"":""Hafez 12""}"
+"cancel_B205","EN","Cancel order B205.","cancel_order","{""order_id"":""B205""}"
+"cancel_B205","FA","سفارش B205 را لغو کن.","cancel_order","{""order_id"":""B205""}"
+"lookup_A104","EN","Check the status of order A104.","lookup_order","{""order_id"":""A104""}"
+"lookup_A104","FA","وضعیت سفارش A104 را بررسی کن.","lookup_order","{""order_id"":""A104""}"
+"lookup_C306","EN","Find order C306; do not change it.","lookup_order","{""order_id"":""C306""}"
+"lookup_C306","FA","سفارش C306 را پیدا کن؛ هیچ تغییری در آن نده.","lookup_order","{""order_id"":""C306""}"
+"ticket_B205","EN","Create a support ticket for order B205 because the package is damaged.","create_support_ticket","{""order_id"":""B205"",""reason"":""damaged package""}"
+"ticket_B205","FA","برای سفارش B205 به دلیل آسیب‌دیدگی بسته یک تیکت پشتیبانی ثبت کن.","create_support_ticket","{""order_id"":""B205"",""reason"":""damaged package""}"
