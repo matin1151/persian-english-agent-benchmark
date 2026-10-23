@@ -10,7 +10,7 @@
     "trial_key": "address_A104:FA:2",
     "language": "FA",
     "initial_success": true,
-    "semantic_success": false,
+    "semantic_success": true,
     "review_note": ""
   },
   {
@@ -108,7 +108,7 @@
     "trial_key": "address_A104:FA:1",
     "language": "FA",
     "initial_success": true,
-    "semantic_success": false,
+    "semantic_success": true,
     "review_note": ""
   },
   {
@@ -171,7 +171,7 @@
     "trial_key": "address_A104:FA:3",
     "language": "FA",
     "initial_success": true,
-    "semantic_success": false,
+    "semantic_success": true,
     "review_note": ""
   },
   {
