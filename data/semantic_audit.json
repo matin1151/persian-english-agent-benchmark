@@ -1,0 +1,212 @@
+[
+  {
+    "trial_key": "ticket_B205:FA:2",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "address_A104:FA:2",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": false,
+    "review_note": ""
+  },
+  {
+    "trial_key": "ticket_B205:FA:3",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "ticket_B205:FA:1",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_A104:FA:1",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_A104:EN:2",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_C306:FA:2",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "cancel_B205:FA:2",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "ticket_B205:EN:3",
+    "language": "EN",
+    "initial_success": false,
+    "semantic_success": true,
+    "review_note": "Equivalent paraphrase: package is damaged = damaged package"
+  },
+  {
+    "trial_key": "cancel_B205:EN:3",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_C306:EN:2",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "ticket_B205:EN:2",
+    "language": "EN",
+    "initial_success": false,
+    "semantic_success": true,
+    "review_note": "Equivalent paraphrase: package is damaged = damaged package"
+  },
+  {
+    "trial_key": "cancel_B205:FA:1",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_A104:FA:2",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_A104:FA:3",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "address_A104:FA:1",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": false,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_C306:EN:3",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "cancel_B205:EN:1",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_A104:EN:3",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "cancel_B205:EN:2",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_A104:EN:1",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_C306:FA:1",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "ticket_B205:EN:1",
+    "language": "EN",
+    "initial_success": false,
+    "semantic_success": true,
+    "review_note": "Equivalent paraphrase: package is damaged = damaged package"
+  },
+  {
+    "trial_key": "address_A104:EN:2",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "address_A104:FA:3",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": false,
+    "review_note": ""
+  },
+  {
+    "trial_key": "cancel_B205:FA:3",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "address_A104:EN:1",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_C306:EN:1",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "lookup_C306:FA:3",
+    "language": "FA",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  },
+  {
+    "trial_key": "address_A104:EN:3",
+    "language": "EN",
+    "initial_success": true,
+    "semantic_success": true,
+    "review_note": ""
+  }
+]
