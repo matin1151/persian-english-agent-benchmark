@@ -24,10 +24,10 @@ All three original English failures were the same support-ticket task. The model
 
 - `data/gemini_observations_raw.jsonl`: original observations
 - `data/semantic_audit.json`: separate reviewed classifications
-- `experiment/trial_manifest.csv`: prompts and expected calls
-- `experiment/tool_schemas.json`: tool definitions
-- `experiment/run_gemini.py`: original execution script
-- `experiment/run_gemini_reproducible.py`: adapted rerun script, where provided
+- `experiment/trial_manifest_reconstructed.csv`: prompts and expected calls, reconstructed from recorded observations
+- `experiment/run_gemini_reconstructed.py`: a newly reconstructed reproduction script, **not** the original runner. It uses a compatible set of four function definitions; these are not claimed to be byte-identical to the original schemas.
+
+The exact original runner and tool schemas are retained in the separate downloadable research package and are **not yet included in this repository**.
 
 ## Limitations
 
